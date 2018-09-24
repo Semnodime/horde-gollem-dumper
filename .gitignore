@@ -1,0 +1,6 @@
+# Project specific
+settings.json
+snapshot*
+
+# Python
+__pycache__/
